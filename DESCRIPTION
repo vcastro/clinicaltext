@@ -10,3 +10,5 @@ Description: A set of tools to process clinical notes using the tidytext
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/vcastro/clinicaltext
+BugReports: https://github.com/vcastro/clinicaltext/issues
