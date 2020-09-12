@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of clinicaltext is to ...
+The goal of clinicaltext is to facilitate processing clinical notes using the tidytext approach.  The package includes a corpus of 2000+ clinical transcription notes.
 
 ## Installation
 
